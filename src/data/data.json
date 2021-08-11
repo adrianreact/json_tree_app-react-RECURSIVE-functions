@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Nagłówek drzewka wielowierszowy",
+    "buttonType": "checkbox",
+    "children": [
+      {
+        "name": "Pododdzial 1",
+        "buttonType": "radio",
+        "children": [
+          {
+            "name": "Zespół 1",
+            "task": "HR"
+          },
+          {
+            "name": "Zespół 2",
+            "task": "Marketing"
+          },
+          {
+            "name": "Zespół 3",
+            "task": "Analitycy",
+            "buttonType": "radio",
+            "children": [
+              {
+                "name": "Podzespół 3.1",
+                "task": "Kalendarz"
+              },
+              {
+                "name": "Podzespół 3.2",
+                "task": "Kokpit"
+              },
+              {
+                "name": "Podzespół 3.3",
+                "task": "Widok"
+              },
+              {
+                "name": "Podzespół 3.4",
+                "task": "Różnosci"
+              },
+              {
+                "name": "Podzespół 3.5",
+                "task": "Szukaj"
+              }
+            ]
+          },
+          {
+            "name": "Zespół 4",
+            "task": "Programisci",
+            "buttonType": "radio",
+            "children": [
+              {
+                "name": "Podzespół 4.1",
+                "task": "Front-end"
+              },
+              {
+                "name": "Podzespół 4.2",
+                "task": "Middle front-end"
+              },
+              {
+                "name": "Podzespół 4.3",
+                "task": "Middle End"
+              },
+              {
+                "name": "Podzespół 4.4",
+                "task": "Middle back-end"
+              },
+              {
+                "name": "Podzespół 4.5",
+                "task": "Back-end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pododdzial 2",
+        "id": 1,
+        "buttonType": "radio",
+        "children": [
+          {
+            "name": "Zespół 1",
+            "task": "HR"
+          },
+          {
+            "name": "Zespół 2",
+            "task": "Marketing"
+          },
+          {
+            "name": "Zespół 3",
+            "task": "Analitycy",
+            "buttonType": "checkbox",
+            "children": [
+              {
+                "name": "Podzespół 3.1",
+                "task": "Kalendarz"
+              },
+              {
+                "name": "Podzespół 3.2",
+                "task": "Kokpit"
+              },
+              {
+                "name": "Podzespół 3.3",
+                "task": "Widok"
+              },
+              {
+                "name": "Podzespół 3.4",
+                "task": "Różnosci"
+              },
+              {
+                "name": "Podzespół 3.5",
+                "task": "Szukaj"
+              }
+            ]
+          },
+          {
+            "name": "Zespół 4",
+            "task": "Programisci",
+            "buttonType": "checkbox",
+            "children": [
+              {
+                "name": "Podzespół 4.1",
+                "task": "Front-end"
+              },
+              {
+                "name": "Podzespół 4.2",
+                "task": "Middle front-end"
+              },
+              {
+                "name": "Podzespół 4.3",
+                "task": "Middle End"
+              },
+              {
+                "name": "Podzespół 4.4",
+                "task": "Middle back-end"
+              },
+              {
+                "name": "Podzespół 4.5",
+                "task": "Back-end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pododdzial 3",
+        "id": 2,
+        "buttonType": "radio",
+        "children": [
+          {
+            "name": "Zespół 1",
+            "task": "HR"
+          },
+          {
+            "name": "Zespół 2",
+            "task": "Marketing"
+          },
+          {
+            "name": "Zespół 3",
+            "task": "Analitycy",
+            "buttonType": "checkbox",
+            "children": [
+              {
+                "name": "Podzespół 3.1",
+                "task": "Kalendarz"
+              },
+              {
+                "name": "Podzespół 3.2",
+                "task": "Kokpit"
+              },
+              {
+                "name": "Podzespół 3.3",
+                "task": "Widok"
+              },
+              {
+                "name": "Podzespół 3.4",
+                "task": "Różnosci"
+              },
+              {
+                "name": "Podzespół 3.5",
+                "task": "Szukaj"
+              }
+            ]
+          },
+          {
+            "name": "Zespół 4",
+            "task": "Programisci",
+            "buttonType": "checkbox",
+            "children": [
+              {
+                "name": "Podzespół 4.1",
+                "task": "Front-end",
+                "highlightElement": true
+              },
+              {
+                "name": "Podzespół 4.2",
+                "task": "Middle front-end"
+              },
+              {
+                "name": "Podzespół 4.3",
+                "task": "Middle End"
+              },
+              {
+                "name": "Podzespół 4.4",
+                "task": "Middle back-end"
+              },
+              {
+                "name": "Podzespół 4.5",
+                "task": "Back-end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Niezrzeszeni",
+        "highlightElement": true
+      }
+    ]
+  },
+  {
+    "name": "Dupa 2",
+    "buttonType": "checkbox",
+    "children": [
+      {
+        "name": "Pododdzial 1",
+        "buttonType": "radio",
+        "children": [
+          {
+            "name": "Zespół 1",
+            "task": "HR"
+          },
+          {
+            "name": "Zespół 2",
+            "task": "Marketing"
+          },
+          {
+            "name": "Zespół 3",
+            "task": "Analitycy",
+            "buttonType": "radio",
+            "children": [
+              {
+                "name": "Podzespół 3.1",
+                "task": "Kalendarz"
+              },
+              {
+                "name": "Podzespół 3.2",
+                "task": "Kokpit"
+              },
+              {
+                "name": "Podzespół 3.3",
+                "task": "Widok"
+              },
+              {
+                "name": "Podzespół 3.4",
+                "task": "Różnosci"
+              },
+              {
+                "name": "Podzespół 3.5",
+                "task": "Szukaj"
+              }
+            ]
+          },
+          {
+            "name": "Zespół 4",
+            "task": "Programisci",
+            "buttonType": "radio",
+            "children": [
+              {
+                "name": "Podzespół 4.1",
+                "task": "Front-end"
+              },
+              {
+                "name": "Podzespół 4.2",
+                "task": "Middle front-end"
+              },
+              {
+                "name": "Podzespół 4.3",
+                "task": "Middle End"
+              },
+              {
+                "name": "Podzespół 4.4",
+                "task": "Middle back-end"
+              },
+              {
+                "name": "Podzespół 4.5",
+                "task": "Back-end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pododdzial 2",
+        "id": 1,
+        "buttonType": "radio",
+        "children": [
+          {
+            "name": "Zespół 1",
+            "task": "HR"
+          },
+          {
+            "name": "Zespół 2",
+            "task": "Marketing"
+          },
+          {
+            "name": "Zespół 3",
+            "task": "Analitycy",
+            "buttonType": "checkbox",
+            "children": [
+              {
+                "name": "Podzespół 3.1",
+                "task": "Kalendarz"
+              },
+              {
+                "name": "Podzespół 3.2",
+                "task": "Kokpit"
+              },
+              {
+                "name": "Podzespół 3.3",
+                "task": "Widok"
+              },
+              {
+                "name": "Podzespół 3.4",
+                "task": "Różnosci"
+              },
+              {
+                "name": "Podzespół 3.5",
+                "task": "Szukaj"
+              }
+            ]
+          },
+          {
+            "name": "Zespół 4",
+            "task": "Programisci",
+            "buttonType": "checkbox",
+            "children": [
+              {
+                "name": "Podzespół 4.1",
+                "task": "Front-end"
+              },
+              {
+                "name": "Podzespół 4.2",
+                "task": "Middle front-end"
+              },
+              {
+                "name": "Podzespół 4.3",
+                "task": "Middle End"
+              },
+              {
+                "name": "Podzespół 4.4",
+                "task": "Middle back-end"
+              },
+              {
+                "name": "Podzespół 4.5",
+                "task": "Back-end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pododdzial 3",
+        "id": 2,
+        "buttonType": "radio",
+        "children": [
+          {
+            "name": "Zespół 1",
+            "task": "HR"
+          },
+          {
+            "name": "Zespół 2",
+            "task": "Marketing"
+          },
+          {
+            "name": "Zespół 3",
+            "task": "Analitycy",
+            "buttonType": "checkbox",
+            "children": [
+              {
+                "name": "Podzespół 3.1",
+                "task": "Kalendarz"
+              },
+              {
+                "name": "Podzespół 3.2",
+                "task": "Kokpit"
+              },
+              {
+                "name": "Podzespół 3.3",
+                "task": "Widok"
+              },
+              {
+                "name": "Podzespół 3.4",
+                "task": "Różnosci"
+              },
+              {
+                "name": "Podzespół 3.5",
+                "task": "Szukaj"
+              }
+            ]
+          },
+          {
+            "name": "Zespół 4",
+            "task": "Programisci",
+            "buttonType": "checkbox",
+            "children": [
+              {
+                "name": "Podzespół 4.1",
+                "task": "Front-end",
+                "highlightElement": true
+              },
+              {
+                "name": "Podzespół 4.2",
+                "task": "Middle front-end"
+              },
+              {
+                "name": "Podzespół 4.3",
+                "task": "Middle End"
+              },
+              {
+                "name": "Podzespół 4.4",
+                "task": "Middle back-end"
+              },
+              {
+                "name": "Podzespół 4.5",
+                "task": "Back-end"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Niezrzeszeni",
+        "highlightElement": true
+      }
+    ]
+  }
+]
